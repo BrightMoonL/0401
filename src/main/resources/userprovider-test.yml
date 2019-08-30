@@ -25,4 +25,4 @@ eureka:
         include: refresh,health,info     
       
 #配置显示给消费者的服务器端标识信息
-ProviderVersion: UserProvider001:Upate
+ProviderVersion: UserProvider001:UpateNew
